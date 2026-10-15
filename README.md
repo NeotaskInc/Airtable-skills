@@ -72,6 +72,14 @@ npx skills add airtable/skills --skill airtable-filters
 
 Or download the latest tagged release zip from [GitHub Releases](https://github.com/airtable/skills/releases/latest).
 
+### Neotask
+
+Install the plugin from [Neotask Construct](https://construct.neotask.ai/p/airtable) with the Neotask CLI, or from the Neotask desktop app under Agents > Skills > Add-ons:
+
+```bash
+neotask construct install airtable
+```
+
 ## Layout
 
 ```
